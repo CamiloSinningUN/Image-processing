@@ -21,3 +21,5 @@ The course covers the following priors and models:
 - **Robust fitting**: RANSAC, MSAC, LMedS (Multimodel fitting as Consequence).
 
 ![image](https://github.com/user-attachments/assets/282aa51f-5e6e-422d-ba56-4a0193997879)
+![image](https://github.com/user-attachments/assets/47611e5d-2823-4b03-998f-195eb14489a3)
+
